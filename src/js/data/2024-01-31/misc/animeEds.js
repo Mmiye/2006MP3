@@ -211,7 +211,7 @@ export const animeEndings = [
   },
   {
     name: "Kinnikuman II Sei: Ultimate Muscle - \"Aka-iro Dance Hall\" by sui",
-    videoId: "https://ladist1.catbox.video/ynr7ae.webm",
+    videoId: "https://ladist1.catbox.video/ntxbnf.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
